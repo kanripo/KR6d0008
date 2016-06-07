@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:44.180116
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:09
 #+TITLE: 妙法蓮華經玄義釋籤
 #+PROPERTY: CBETA_ID L116n1490
 #+PROPERTY: ID KR6d0008
